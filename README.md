@@ -36,5 +36,5 @@ Implementing shit in Verilog HDL (Hardware Description Language) involves transl
 # TIMING DIGRAMS FOR SISO Shift Register
 ![Screenshot 2024-12-12 132927](https://github.com/user-attachments/assets/f740fa0a-4223-486c-8cb6-4d3d8cfa6062)
 
-# RESULTS:
+# RESULT:
 Implemented SISO Shift Register using verilog and validating their functionality using their functional tables.
